@@ -196,6 +196,14 @@ skins/
 
 Script, kostüm dosyalarının içeriğini değiştirmez. Yalnızca şampiyon ve kostüm klasörlerinin adlarını düzenler.
 
+## Scripts
+
+### `ayristirici.py`
+Uses `resources/tr/skin_ids.json` to rename champion and skin folders with Turkish names.
+
+### `parser.py`
+Uses `resources/en/skin_ids.json` to rename champion and skin folders with English names.
+
 ## License
 
 This project is licensed under the MIT License.
